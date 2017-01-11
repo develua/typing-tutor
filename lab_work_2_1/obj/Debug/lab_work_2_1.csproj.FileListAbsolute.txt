@@ -1,0 +1,69 @@
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.g.resources
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_Content.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper01.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper02.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper03.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper04.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper05.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper06.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper07.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper08.jpg
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper09.jpg
+C:\Users\Admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csprojResolveAssemblyReference.cache
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper01.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper02.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper03.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper04.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper05.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper06.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper07.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper08.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper09.jpg
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csprojResolveAssemblyReference.cache
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.baml
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.g.cs
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\App.g.cs
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_Content.g.cs
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_MarkupCompile.cache
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.g.resources
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+D:\Документы\Учеба\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper01.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper02.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper03.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper04.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper05.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper06.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper07.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper08.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\Wallpapers\Wallpaper09.jpg
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.baml
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\App.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_Content.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_MarkupCompile.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.g.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
